@@ -16,6 +16,11 @@ In comprehensive evaluations, DL-Kinetics-FM-Net achieves a significant reductio
 
 ---
 
+## Data
+
+- Data for initial implementation can be accessed from the [Google Drive](https://drive.google.com/drive/folders/16UA4C2zR-4kOQIyLNUUEiWohwOfMg6N8?usp=sharing)
+- Data for the [updated implementation](IEEE_CHASE_Kinetics_dataset_A_Estimation.ipynb) can be found in the following [google drive](https://drive.google.com/file/d/1M5MuftWOePwqjFDeyvQkXpT80dcgUfhk/view?usp=sharing)
+
 
 ## Codes 
 
