@@ -8,7 +8,6 @@ This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep-learn
 
 
 
-
 <p align="center">
   <img src="Figures/DL-Kinetics-FM-Net.png" alt="Model Architecture" width="700"/>
   <br>
