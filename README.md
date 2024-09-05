@@ -4,7 +4,13 @@ By: Md Sanzid Bin Hossain, Zhishan Guo, Hwan Choi
 
 ## Summary
 
-This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep learning model designed to estimate hip, knee, and ankle joint moments in the sagittal plane using data from a single IMU sensor placed on the foot. Traditional methods for analyzing joint moments are constrained to lab environments, requiring expensive and cumbersome equipment such as force plates, motion capture cameras, and pressure sensors. DL-Kinetics-FM-Net aims to overcome these limitations by enabling joint moment estimation in real-world settings, including treadmill, level-ground, ramp, and stair walking conditions.
+This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep-learning model designed to estimate hip, knee, and ankle joint moments in the sagittal plane using data from a single IMU sensor placed on the foot. Traditional methods for analyzing joint moments are constrained to lab environments, requiring expensive and cumbersome equipment such as force plates, motion capture cameras, and pressure sensors. DL-Kinetics-FM-Net aims to overcome these limitations by enabling joint moment estimation in real-world settings, including treadmill, level-ground, ramp, and stair walking conditions.
+
+![Model Architecture](Figures/DL-Kinetics-FM-Net.png)
+*Figure 1: Overview of the DL-Kinetics-FM-Net architecture*
+![Model Architecture](Figures/Kinetics-FM-Net.png)
+*Figure 2: Overview of the Kinetics-FM-Net architecture*
+
 
 ### Key Features
 - **End-to-End Training**: DL-Kinetics-FM-Net is trained as a complete system to maximize performance.
