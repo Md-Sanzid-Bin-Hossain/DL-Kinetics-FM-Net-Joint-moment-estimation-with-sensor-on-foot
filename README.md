@@ -13,13 +13,13 @@ This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep-learn
 
 
 <p align="center">
-  <img src="Figures/DL-Kinetics-FM-Net.png" alt="Model Architecture" width="400"/>
+  <img src="Figures/DL-Kinetics-FM-Net.png" alt="Model Architecture" width="200"/>
   <br>
   <em>Figure 1: Overview of the DL-Kinetics-FM-Net architecture</em>
 </p>
 
 <p align="center">
-  <img src="Figures/Kinetics-FM-Net.png" alt="Kinetics FM-Net" width="400"/>
+  <img src="Figures/Kinetics-FM-Net.png" alt="Kinetics FM-Net" width="200"/>
   <br>
   <em>Figure 2: Overview of the Kinetics-FM-Net architecture</em>
 </p>
