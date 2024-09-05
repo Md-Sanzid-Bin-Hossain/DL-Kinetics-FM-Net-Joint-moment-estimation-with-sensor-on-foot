@@ -15,3 +15,22 @@ This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep learn
 In comprehensive evaluations, DL-Kinetics-FM-Net achieves a significant reduction in normalized root mean square error (NRMSE) by **7.10% to 23.16%** compared to the current state-of-the-art methods. This model provides a more accessible and cost-effective solution for estimating joint moments in daily walking scenarios, with minimal sensor requirements.
 
 ---
+
+
+## Codes 
+
+- Updated jupyter notebook for this instance can be found in this [link](IEEE_CHASE_Kinetics_dataset_A_Estimation.ipynb)
+- Previous codes used to run the models can be found in the [Codes folder](Codes)
+
+## Citation
+If you use this model or dataset in your research, please cite the following paper:
+
+```bibtex
+@inproceedings{hossain2022estimation,
+  title={Estimation of Hip, Knee, and Ankle Joint Moment Using a Single IMU Sensor on Foot Via Deep Learning},
+  author={Hossain, Md Sanzid Bin and Guo, Zhishan and Choi, Hwan},
+  booktitle={2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)},
+  pages={25--33},
+  year={2022},
+  organization={IEEE}
+}
