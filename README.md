@@ -12,6 +12,20 @@ This repository contains the code for **DL-Kinetics-FM-Net**, a novel deep-learn
 *Figure 2: Overview of the Kinetics-FM-Net architecture*
 
 
+<p align="center">
+  <img src="Figures/DL-Kinetics-FM-Net.png" alt="Model Architecture" width="400"/>
+  <br>
+  <em>Figure 1: Overview of the DL-Kinetics-FM-Net architecture</em>
+</p>
+
+<p align="center">
+  <img src="Figures/Kinetics-FM-Net.png" alt="Kinetics FM-Net" width="400"/>
+  <br>
+  <em>Figure 2: Overview of the Kinetics-FM-Net architecture</em>
+</p>
+
+
+
 ### Key Features
 - **End-to-End Training**: DL-Kinetics-FM-Net is trained as a complete system to maximize performance.
 - **Fusion Module (FM)**: A novel component that enhances the estimation of joint moments by integrating multiple data streams.
